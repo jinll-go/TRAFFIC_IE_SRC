@@ -1,0 +1,13 @@
+{
+    "version": "8.4.0.1",
+    "EnableRule": 1,
+    "EnableResult": 1,
+    "Smart_results_sync_with_video": 1,
+    "Max_delay_smartnum": 20,
+    "Capture_face_pics_save": 0,
+    "Capture_face_fullpics_save": 0,
+    "Face_draw_id_score": 1,
+    "pipeSnapFaceMsgToJs": 0,
+    "pipeFaceCompareMsgToJs": 0,
+    "enableOnlyFaceResult": 0
+}

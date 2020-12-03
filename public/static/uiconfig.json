@@ -1,0 +1,280 @@
+{
+	"CVLogin" : {
+		"browser_type" : {
+			"visible" : true
+		},
+		"forgot_pwd" : {
+			"visible" : true
+		},
+		"modify_pwd" : {
+			"visible" : true
+		},
+		"modify_pwd_mandatory" : {
+			"visible" : true
+		},
+		"Enable_GB35114" : {
+			"visible" : true
+		},
+		"Enable_IMS_down" : {
+			"visible" : true
+		}
+	},
+	"CVLoginBanner" : {
+		"serno" : {
+			"visible" : false
+		},
+		"model" : {
+			"visible" : false
+		},
+		"version" : {
+			"visible" : false
+		}
+	},
+	"CVIndex" : {
+		"topmenu" : {
+			"visible" : true
+		}
+	},
+	"CVTopMenu" : {
+		"tab_preview" : {
+			"visible" : true
+		},
+		"tab_playback" : {
+			"visible" : false
+		},
+		"tab_file" : {
+			"visible" : false
+		},
+		"tab_config" : {
+			"visible" : true
+		},
+		"tab_log" : {
+			"visible" : true
+		},
+		"tab_alarm" : {
+			"visible" : false
+		},
+		"tab_face" : {
+			"visible" : true
+		},
+		"tab_ManageFace" : {
+			"visible" : true
+		},
+		"brand" : {
+			"visible" : true
+		},
+		"lblmolNO" : {
+			"visible" : true
+		}
+	},
+	"CVConfigMenu" : {
+		"CVConfigBaseInfo" : {
+			"visible" : true
+		},
+		"CVConfigGataControl" : {
+			"visible" : true
+		},
+		"CVConfigGataFeedback" : {
+			"visible" : true
+		},
+		"CVConfigIOConfig" : {
+			"visible" : true
+		},
+		"CVConfigWiegandConfig" : {
+			"visible" : true
+		},
+		"CVConfigDisplayConfig" : {
+			"visible" : true
+		},
+		"CVConfigTimeSet" : {
+			"visible" : true
+		},
+		"CVConfigLightControl" : {
+			"visible" : true
+		},
+		"CVConfigAdverPic" : {
+			"visible" : true
+		},
+		"CVConfigNetworkSetting" : {
+			"visible" : true
+		},
+		"CVConfigWirelessAP" : {
+			"visible" : true
+		},
+		"CVConfigWifiConfig" : {
+			"visible" : true
+		},
+		"CVConfig4G" : {
+			"visible" : true
+		},
+		"CVConfigPortConfig" : {
+			"visible" : true
+		},
+		"CVConfigP2PConfig" : {
+			"visible" : true
+		},
+		"CVConfigTFCard" : {
+			"visible" : true
+		},
+		"CVConfigUser" : {
+			"visible" : true
+		},
+		"CVConfigEmail" : {
+			"visible" : true
+		},
+		"CVConfigStorage" : {
+			"visible" : true
+		},
+		"CVConfigPasswdOpen" : {
+			"visible" : true
+		},
+		"CVConfigSwitchOpen" : {
+			"visible" : true
+		},
+		"CVConfigFaceConfig" : {
+			"visible" : true
+		},
+		"CVConfigTempConfig" : {
+			"visible" : true
+		},
+		"CVConfigDetectMinArea" : {
+			"visible" : true
+		},
+		"CVConfigFaceSchedule" : {
+			"visible" : true
+		},
+		"CVConfigSpeech" : {
+			"visible" : true
+		},
+		"CVConfigOSDConfig" : {
+			"visible" : true
+		},
+		"CVConfigVideo" : {
+			"visible" : true
+		},
+		"CVConfigHTTPUpload" : {
+			"visible" : true
+		},
+		"CVConfigFTPUpload" : {
+			"visible" : true
+		},
+		"CVConfigVersionInfo" : {
+			"visible" : true
+		},
+		"CVConfigUpgrade" : {
+			"visible" : true
+		},
+		"CVConfigDiagnose" : {
+			"visible" : true
+		},
+		"CVConfigMaintain" : {
+			"visible" : true
+		},
+		"CVConfigLog" : {
+			"visible" : true
+		}
+	},
+	"CVConfigSpeech" : {
+		"Traffic" : {
+			"visible" : true
+		},
+		"Stranger" : {
+			"visible" : true
+		},
+		"IDCard" : {
+			"visible" : true
+		},
+		"Admin" : {
+			"visible" : true
+		},
+		"AuthFail" : {
+			"visible" : true
+		},
+		"ACCard" : {
+			"visible" : true
+		},
+		"Helmet" : {
+			"visible" : true
+		},
+		"TempCheck" : {
+			"visible" : true
+		},
+		"TempHigh" : {
+			"visible" : true
+		},
+		"TempFar" : {
+			"visible" : true
+		},
+		"TempLow" : {
+			"visible" : true
+		},
+		"FaceMask" : {
+			"visible" : true
+		},
+		"ICIllegal" : {
+			"visible" : false
+		},
+		"Moving" : {
+			"visible" : false
+		},
+		"Schedule" : {
+			"visible" : true
+		},
+		"HealthCodeOK" : {
+			"visible" : false
+		},
+		"HealthCodeCheck" : {
+			"visible" : false
+		},
+		"HealthCodeFail" : {
+			"visible" : false
+		},
+		"HealthCodeUnmatch" : {
+			"visible" : false
+		},
+		"QrcodeOk" : {
+			"visible" : false
+		},
+		"WifiConnecting" : {
+			"visible" : false
+		},
+		"WifiConnectOK" : {
+			"visible" : false
+		},
+		"WifiConnectFailed" : {
+			"visible" : false
+		},
+		"GrpCtlOpen" : {
+			"visible" : true
+		},
+		"GrpCtlTimeout" : {
+			"visible" : true
+		},
+		"ACUnmatch" : {
+			"visible" : true
+		}
+	},
+	"CVConfigVideo": {
+		"stream_type": {
+		  "visible": true
+		},
+		"resolution": {
+		  "visible": true
+		},
+		"framerate": {
+		  "visible": true
+		},
+		"i_frame_interval": {
+		  "visible": true
+		},
+		"bitrate_type": {
+		  "visible": true
+		},
+		"bitrate": {
+		  "visible": true
+		},
+		"quality": {
+		  "visible": true
+		}
+	  }
+}
